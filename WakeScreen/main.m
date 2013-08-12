@@ -2,7 +2,7 @@
 //  main.m
 //  WakeScreen
 //
-//  Created by 解 磊 on 13-8-12.
+//  Created by Jqgsninimo on 13-8-12.
 //  Copyright (c) 2013年 SJT. All rights reserved.
 //
 

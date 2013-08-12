@@ -13,6 +13,19 @@
 		D3CFDD0417B8801F00B85921 /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = D3CFDD0217B8801F00B85921 /* Credits.rtf */; };
 		D3CFDD0717B8801F00B85921 /* SJTAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D3CFDD0617B8801F00B85921 /* SJTAppDelegate.m */; };
 		D3CFDD0A17B8801F00B85921 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = D3CFDD0817B8801F00B85921 /* MainMenu.xib */; };
+		D3CFDD1B17B880C100B85921 /* 1.aiff in Resources */ = {isa = PBXBuildFile; fileRef = D3CFDD1117B880C100B85921 /* 1.aiff */; };
+		D3CFDD1C17B880C100B85921 /* 10.aiff in Resources */ = {isa = PBXBuildFile; fileRef = D3CFDD1217B880C100B85921 /* 10.aiff */; };
+		D3CFDD1D17B880C100B85921 /* 2.aiff in Resources */ = {isa = PBXBuildFile; fileRef = D3CFDD1317B880C100B85921 /* 2.aiff */; };
+		D3CFDD1E17B880C100B85921 /* 3.aiff in Resources */ = {isa = PBXBuildFile; fileRef = D3CFDD1417B880C100B85921 /* 3.aiff */; };
+		D3CFDD1F17B880C100B85921 /* 4.aiff in Resources */ = {isa = PBXBuildFile; fileRef = D3CFDD1517B880C100B85921 /* 4.aiff */; };
+		D3CFDD2017B880C100B85921 /* 5.aiff in Resources */ = {isa = PBXBuildFile; fileRef = D3CFDD1617B880C100B85921 /* 5.aiff */; };
+		D3CFDD2117B880C100B85921 /* 6.aiff in Resources */ = {isa = PBXBuildFile; fileRef = D3CFDD1717B880C100B85921 /* 6.aiff */; };
+		D3CFDD2217B880C100B85921 /* 7.aiff in Resources */ = {isa = PBXBuildFile; fileRef = D3CFDD1817B880C100B85921 /* 7.aiff */; };
+		D3CFDD2317B880C100B85921 /* 8.aiff in Resources */ = {isa = PBXBuildFile; fileRef = D3CFDD1917B880C100B85921 /* 8.aiff */; };
+		D3CFDD2417B880C100B85921 /* 9.aiff in Resources */ = {isa = PBXBuildFile; fileRef = D3CFDD1A17B880C100B85921 /* 9.aiff */; };
+		D3CFDD2717B880F300B85921 /* SJTSlider.m in Sources */ = {isa = PBXBuildFile; fileRef = D3CFDD2617B880F300B85921 /* SJTSlider.m */; };
+		D3CFDD2917B882C500B85921 /* IOKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3CFDD2817B882C500B85921 /* IOKit.framework */; };
+		D3CFDD2E17B886C800B85921 /* Icons.icns in Resources */ = {isa = PBXBuildFile; fileRef = D3CFDD2D17B886C800B85921 /* Icons.icns */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +42,20 @@
 		D3CFDD0517B8801F00B85921 /* SJTAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SJTAppDelegate.h; sourceTree = "<group>"; };
 		D3CFDD0617B8801F00B85921 /* SJTAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SJTAppDelegate.m; sourceTree = "<group>"; };
 		D3CFDD0917B8801F00B85921 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		D3CFDD1117B880C100B85921 /* 1.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = 1.aiff; sourceTree = "<group>"; };
+		D3CFDD1217B880C100B85921 /* 10.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = 10.aiff; sourceTree = "<group>"; };
+		D3CFDD1317B880C100B85921 /* 2.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = 2.aiff; sourceTree = "<group>"; };
+		D3CFDD1417B880C100B85921 /* 3.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = 3.aiff; sourceTree = "<group>"; };
+		D3CFDD1517B880C100B85921 /* 4.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = 4.aiff; sourceTree = "<group>"; };
+		D3CFDD1617B880C100B85921 /* 5.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = 5.aiff; sourceTree = "<group>"; };
+		D3CFDD1717B880C100B85921 /* 6.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = 6.aiff; sourceTree = "<group>"; };
+		D3CFDD1817B880C100B85921 /* 7.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = 7.aiff; sourceTree = "<group>"; };
+		D3CFDD1917B880C100B85921 /* 8.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = 8.aiff; sourceTree = "<group>"; };
+		D3CFDD1A17B880C100B85921 /* 9.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = 9.aiff; sourceTree = "<group>"; };
+		D3CFDD2517B880F300B85921 /* SJTSlider.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJTSlider.h; sourceTree = "<group>"; };
+		D3CFDD2617B880F300B85921 /* SJTSlider.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJTSlider.m; sourceTree = "<group>"; };
+		D3CFDD2817B882C500B85921 /* IOKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IOKit.framework; path = System/Library/Frameworks/IOKit.framework; sourceTree = SDKROOT; };
+		D3CFDD2D17B886C800B85921 /* Icons.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = Icons.icns; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,6 +63,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D3CFDD2917B882C500B85921 /* IOKit.framework in Frameworks */,
 				D3CFDCF417B8801F00B85921 /* Cocoa.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -48,6 +76,7 @@
 			children = (
 				D3CFDCF917B8801F00B85921 /* WakeScreen */,
 				D3CFDCF217B8801F00B85921 /* Frameworks */,
+				D3CFDD1017B880C100B85921 /* Resources */,
 				D3CFDCF117B8801F00B85921 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -63,6 +92,7 @@
 		D3CFDCF217B8801F00B85921 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				D3CFDD2817B882C500B85921 /* IOKit.framework */,
 				D3CFDCF317B8801F00B85921 /* Cocoa.framework */,
 				D3CFDCF517B8801F00B85921 /* Other Frameworks */,
 			);
@@ -82,6 +112,8 @@
 		D3CFDCF917B8801F00B85921 /* WakeScreen */ = {
 			isa = PBXGroup;
 			children = (
+				D3CFDD2517B880F300B85921 /* SJTSlider.h */,
+				D3CFDD2617B880F300B85921 /* SJTSlider.m */,
 				D3CFDD0517B8801F00B85921 /* SJTAppDelegate.h */,
 				D3CFDD0617B8801F00B85921 /* SJTAppDelegate.m */,
 				D3CFDD0817B8801F00B85921 /* MainMenu.xib */,
@@ -100,6 +132,24 @@
 				D3CFDD0217B8801F00B85921 /* Credits.rtf */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		D3CFDD1017B880C100B85921 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				D3CFDD2D17B886C800B85921 /* Icons.icns */,
+				D3CFDD1117B880C100B85921 /* 1.aiff */,
+				D3CFDD1317B880C100B85921 /* 2.aiff */,
+				D3CFDD1417B880C100B85921 /* 3.aiff */,
+				D3CFDD1517B880C100B85921 /* 4.aiff */,
+				D3CFDD1617B880C100B85921 /* 5.aiff */,
+				D3CFDD1717B880C100B85921 /* 6.aiff */,
+				D3CFDD1817B880C100B85921 /* 7.aiff */,
+				D3CFDD1917B880C100B85921 /* 8.aiff */,
+				D3CFDD1A17B880C100B85921 /* 9.aiff */,
+				D3CFDD1217B880C100B85921 /* 10.aiff */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -157,6 +207,17 @@
 				D3CFDCFE17B8801F00B85921 /* InfoPlist.strings in Resources */,
 				D3CFDD0417B8801F00B85921 /* Credits.rtf in Resources */,
 				D3CFDD0A17B8801F00B85921 /* MainMenu.xib in Resources */,
+				D3CFDD1B17B880C100B85921 /* 1.aiff in Resources */,
+				D3CFDD1C17B880C100B85921 /* 10.aiff in Resources */,
+				D3CFDD1D17B880C100B85921 /* 2.aiff in Resources */,
+				D3CFDD1E17B880C100B85921 /* 3.aiff in Resources */,
+				D3CFDD1F17B880C100B85921 /* 4.aiff in Resources */,
+				D3CFDD2017B880C100B85921 /* 5.aiff in Resources */,
+				D3CFDD2117B880C100B85921 /* 6.aiff in Resources */,
+				D3CFDD2217B880C100B85921 /* 7.aiff in Resources */,
+				D3CFDD2317B880C100B85921 /* 8.aiff in Resources */,
+				D3CFDD2417B880C100B85921 /* 9.aiff in Resources */,
+				D3CFDD2E17B886C800B85921 /* Icons.icns in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -169,6 +230,7 @@
 			files = (
 				D3CFDD0017B8801F00B85921 /* main.m in Sources */,
 				D3CFDD0717B8801F00B85921 /* SJTAppDelegate.m in Sources */,
+				D3CFDD2717B880F300B85921 /* SJTSlider.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
